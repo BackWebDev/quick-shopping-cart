@@ -1,0 +1,11 @@
+.custom-cart {
+    color: #000;
+    text-decoration: none;
+}
+.custom-cart:hover {
+    text-decoration: none;
+    color: #000;
+}
+.num-prod {
+    padding-left: 5px;
+}
